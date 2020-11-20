@@ -1,0 +1,94 @@
+/* Start global styles */
+
+body{
+    font-size: 16px;
+}
+
+
+h1{
+    color: #636e72;
+    margin: 20px 0;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+
+/* end global styles */
+
+
+/*Members page*/
+
+.manage-members .table .btn{
+    padding: 0px 5px;
+}
+
+
+/*Members page*/
+
+
+/*Manga Page*/
+
+.manage-manga .card { 
+    width: 261px;
+    margin: 10px;
+    position: relative;
+    height: 500px;
+}
+
+.manage-manga .card .card-body { 
+    width: 210px; 
+    padding: 7px;
+    font-size: 0.97em;
+}
+
+.manage-manga li{
+    margin: 3px 0;
+}
+
+.manage-manga img{
+    height: 250px;
+}
+
+.manage-manga li span{
+    display: inline-block;
+    width: 68px;
+    color: #868d93;
+    font-weight: bold;
+}
+
+.add-manga {
+margin-bottom: 70px;
+}
+
+.manage-manga .card .btn{ 
+    padding: 1px 2px;
+}
+.manage-manga .card .modify{ 
+    position: absolute;
+    right: 6px;
+    top: 5px;
+    display: none;
+}
+
+.ClickOnCard{
+    border : 2px solid #2bbdbd;
+}
+
+.card .desc{
+    display: inline;
+    line-height: 0.3;
+
+} 
+/*End Manga Page*/
+
+
+/*start chapters page*/
+
+.add-chapter
+
+
+/*end chapters page*/
+
+
+
+
